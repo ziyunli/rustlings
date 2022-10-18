@@ -1,5 +1,7 @@
 # rustlings 🦀❤️
 
+[![Rustlings Tests](https://github.com/ziyunli/rustlings/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/ziyunli/rustlings/actions/workflows/rust.yml)
+
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
 
 _...looking for the old, web-based version of Rustlings? Try [here](https://github.com/rust-lang/rustlings/tree/rustlings-1)_
@@ -126,7 +128,7 @@ After every couple of sections, there will be a quiz that'll test your knowledge
 
 ## Enabling `rust-analyzer`
 
-Run the command `rustlings lsp` which will generate a `rust-project.json` at the root of the project, this allows [rust-analyzer](https://rust-analyzer.github.io/) to parse each exercise. 
+Run the command `rustlings lsp` which will generate a `rust-project.json` at the root of the project, this allows [rust-analyzer](https://rust-analyzer.github.io/) to parse each exercise.
 
 ## Continuing On
 
